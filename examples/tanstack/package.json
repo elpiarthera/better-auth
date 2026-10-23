@@ -57,7 +57,15 @@
     "prettier": "3.4.2",
     "tw-animate-css": "^1.3.4",
     "typescript": "^5.7.2",
-    "vite": "^7.2.7",
+    "vite": "^7.3.7",
     "vite-tsconfig-paths": "^5.1.4"
+  },
+  "overrides": {
+    "next": "16.4.1",
+    "seroval": "1.6.3",
+    "tinypool": "2.1.2",
+    "@fastify/busboy": "3.2.1",
+    "undici": "7.29.1",
+    "brace-expansion": "2.1.6"
   }
 }
