@@ -27,5 +27,8 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.5",
     "typescript": "^5.8.3"
+  },
+  "overrides": {
+    "sharp": "0.35.5"
   }
 }
